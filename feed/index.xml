@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>GZ Portfolio | David Gansberger</title>
+	<title>Portfolio | David Gansberger</title>
 	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 27 May 2022 20:42:42 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 May 2022 21:19:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2022/05/GZ-logo.svg</url>
-	<title>GZ Portfolio | David Gansberger</title>
+	<title>Portfolio | David Gansberger</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
