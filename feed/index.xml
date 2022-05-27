@@ -8,36 +8,24 @@
 	>
 
 <channel>
-	<title>localtest</title>
+	<title>GZ Portfolio | David Gansberger</title>
 	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 11 May 2022 22:41:57 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Fri, 27 May 2022 19:17:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[diff]]></dc:creator>
-		<pubDate>Wed, 11 May 2022 22:41:57 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+	<generator>https://wordpress.org/?v=6.0</generator>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+<image>
+	<url>/wp-content/uploads/2022/05/GZ-logo.svg</url>
+	<title>GZ Portfolio | David Gansberger</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
 </rss>
