@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 10 Jun 2022 18:10:18 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Jun 2022 18:25:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/05/Gz-logo.svg</url>
+	<url>/wp-content/uploads/2022/06/Gz-logo-512-150x150.jpg</url>
 	<title>Portfolio | David Gansberger</title>
 	<link>/</link>
 	<width>32</width>
