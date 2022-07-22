@@ -12,12 +12,20 @@
 	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 22 Jul 2022 20:19:58 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 Jul 2022 20:55:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/05/favicon-alt.jpg</url>
+	<title>Portfolio | David Gansberger</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
