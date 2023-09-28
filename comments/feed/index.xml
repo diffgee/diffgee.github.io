@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments for Gansberger Portfolio	</title>
+	Comments for Gansberger &#8211; Portfolio	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 30 Jun 2023 15:33:01 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Sep 2023 19:52:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 </channel>
 </rss>

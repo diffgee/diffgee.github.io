@@ -8,24 +8,789 @@
 	>
 
 <channel>
-	<title>Gansberger Portfolio</title>
+	<title>Gansberger &#8211; Portfolio</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 30 Jun 2023 15:33:01 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Aug 2023 15:57:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/10/favicon-alt.svg</url>
-	<title>Gansberger Portfolio</title>
+	<url>/wp-content/uploads/2023/08/favicon-portfolio.svg</url>
+	<title>Gansberger &#8211; Portfolio</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Niva Kettle</title>
+		<link>/niva-kettle/</link>
+					<comments>/niva-kettle/#respond</comments>
+		
+		<dc:creator><![CDATA[diffgee]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2023 15:57:33 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://doron/</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="45" class="elementor elementor-45" data-elementor-post-type="post">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-7715308a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7715308a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-57852448" data-id="57852448" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4d374c64 elementor-widget elementor-widget-text-editor" data-id="4d374c64" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.15.0 - 20-08-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:image {"id":159,"width":1617,"height":722,"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full is-resized"><img decoding="async" fetchpriority="high" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Niva-Kettle_inner_image_2.jpg" alt="" class="wp-image-159" width="1617" height="722" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":40} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":50} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat cupidatat non proident, sunt in culpa qui officia mollit natoque consequat massa quis enim. Donec pede justo, fringilla semper nisi. Aene vulputate</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":30} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":160,"width":797,"height":722,"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Niva-Kettle_inner_image3.jpg" alt="" class="wp-image-160" width="797" height="722" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":161,"width":797,"height":722,"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Niva-Kettle_inner_image4.jpg" alt="" class="wp-image-161" width="797" height="722" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/niva-kettle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Stellar Clock</title>
+		<link>/stellar-clock/</link>
+					<comments>/stellar-clock/#respond</comments>
+		
+		<dc:creator><![CDATA[diffgee]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2023 15:57:33 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://doron/</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Stellar-Clock_inner_image1.jpg" alt="" class="wp-image-167" width="1617" height="722"/></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-11 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat cupidatat non proident, sunt in culpa qui officia mollit natoque consequat massa quis enim. Donec pede justo, fringilla semper nisi. Aene vulputate</p>
+
+
+
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+</div>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-14 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Stellar-Clock_inner_image3.jpg" alt="" class="wp-image-169" width="797" height="722"/></figure>
+
+
+
+<p></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Stellar-Clock_inner_image2.jpg" alt="" class="wp-image-168" width="797" height="722"/></figure>
+
+
+
+<p></p>
+</div>
+</div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/stellar-clock/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Rubik&#8217;s Cube</title>
+		<link>/rubiks-cube/</link>
+					<comments>/rubiks-cube/#respond</comments>
+		
+		<dc:creator><![CDATA[diffgee]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2023 15:57:33 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://doron/</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Rubiks_Cube_inner_image1.jpg" alt="" class="wp-image-174" width="1617" height="722"/></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-18 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat cupidatat non proident, sunt in culpa qui officia mollit natoque consequat massa quis enim. Donec pede justo, fringilla semper nisi. Aene vulputate</p>
+
+
+
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+</div>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-21 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Rubiks_Cube_inner_image3.jpg" alt="" class="wp-image-175" width="797" height="722"/></figure>
+
+
+
+<p></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Rubiks_Cube_inner_image4.jpg" alt="" class="wp-image-176" width="797" height="722"/></figure>
+
+
+
+<p></p>
+</div>
+</div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/rubiks-cube/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Zootog Speaker</title>
+		<link>/zootog-speaker/</link>
+					<comments>/zootog-speaker/#respond</comments>
+		
+		<dc:creator><![CDATA[diffgee]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2023 15:57:33 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://doron/</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_5.jpg" alt="" class="wp-image-181" width="1617" height="722"/></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-25 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat cupidatat non proident, sunt in culpa qui officia mollit natoque consequat massa quis enim. Donec pede justo, fringilla semper nisi. Aene vulputate</p>
+
+
+
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+</div>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-28 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_13.jpg" alt="" class="wp-image-182" width="797" height="722"/></figure>
+
+
+
+<p></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_16.jpg" alt="" class="wp-image-183" width="797" height="722"/></figure>
+
+
+
+<p></p>
+</div>
+</div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/zootog-speaker/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Wami Shelf</title>
+		<link>/wami-shelf/</link>
+					<comments>/wami-shelf/#respond</comments>
+		
+		<dc:creator><![CDATA[diffgee]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2023 15:57:33 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://doron/</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_2.jpg" alt="" class="wp-image-189" width="1617" height="722"/></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-32 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat cupidatat non proident, sunt in culpa qui officia mollit natoque consequat massa quis enim. Donec pede justo, fringilla semper nisi. Aene vulputate</p>
+
+
+
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+</div>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-35 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_11.jpg" alt="" class="wp-image-190" width="797" height="722"/></figure>
+
+
+
+<p></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_14.jpg" alt="" class="wp-image-191" width="797" height="722"/></figure>
+
+
+
+<p></p>
+</div>
+</div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/wami-shelf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ludi Board</title>
+		<link>/ludi-board/</link>
+					<comments>/ludi-board/#respond</comments>
+		
+		<dc:creator><![CDATA[diffgee]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2023 15:57:33 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://doron/</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Ludi-Board_images_1.jpg" alt="" class="wp-image-200" width="1617" height="722"/></figure>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-39 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat cupidatat non proident, sunt in culpa qui officia mollit natoque consequat massa quis enim. Donec pede justo, fringilla semper nisi. Aene vulputate</p>
+
+
+
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+</div>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-42 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Ludi-Board_images_3.jpg" alt="" class="wp-image-208" width="797" height="722"/></figure>
+
+
+
+<p></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Ludi-Board_images_2.jpg" alt="" class="wp-image-207" width="797" height="722"/></figure>
+
+
+
+<p></p>
+</div>
+</div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/ludi-board/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fosu Lamp</title>
+		<link>/fosu-lamp/</link>
+					<comments>/fosu-lamp/#respond</comments>
+		
+		<dc:creator><![CDATA[diffgee]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2023 15:57:33 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://doron/</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_7.jpg" alt="" class="wp-image-211" width="1617" height="722"/></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-46 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat cupidatat non proident, sunt in culpa qui officia mollit natoque consequat massa quis enim. Donec pede justo, fringilla semper nisi. Aene vulputate</p>
+
+
+
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+</div>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-49 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_10.jpg" alt="" class="wp-image-212" width="797" height="722"/></figure>
+
+
+
+<p></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_15.jpg" alt="" class="wp-image-213" width="797" height="722"/></figure>
+
+
+
+<p></p>
+</div>
+</div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/fosu-lamp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Woody Hand</title>
+		<link>/woody-hand/</link>
+					<comments>/woody-hand/#respond</comments>
+		
+		<dc:creator><![CDATA[diffgee]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2023 15:57:33 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://doron/</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_12.jpg" alt="" class="wp-image-218" width="1617" height="722"/></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-53 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat cupidatat non proident, sunt in culpa qui officia mollit natoque consequat massa quis enim. Donec pede justo, fringilla semper nisi. Aene vulputate</p>
+
+
+
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+</div>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-56 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_19.jpg" alt="" class="wp-image-219" width="797" height="722"/></figure>
+
+
+
+<p></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_20.jpg" alt="" class="wp-image-220" width="797" height="722"/></figure>
+
+
+
+<p></p>
+</div>
+</div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/woody-hand/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Otoru Stool</title>
+		<link>/otoru-stool/</link>
+					<comments>/otoru-stool/#respond</comments>
+		
+		<dc:creator><![CDATA[diffgee]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2023 15:57:33 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://doron/</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_8.jpg" alt="" class="wp-image-224" width="1617" height="722"/></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-60 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat cupidatat non proident, sunt in culpa qui officia mollit natoque consequat massa quis enim. Donec pede justo, fringilla semper nisi. Aene vulputate</p>
+
+
+
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+</div>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-63 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_17.jpg" alt="" class="wp-image-225" width="797" height="722"/></figure>
+
+
+
+<p></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_18-1.jpg" alt="" class="wp-image-227" width="797" height="722"/></figure>
+
+
+
+<p></p>
+</div>
+</div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/otoru-stool/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Exica Chair</title>
+		<link>/exica-chair/</link>
+					<comments>/exica-chair/#respond</comments>
+		
+		<dc:creator><![CDATA[diffgee]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2023 15:57:33 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://doron/</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="36" class="elementor elementor-36" data-elementor-post-type="post">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-492d3067 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="492d3067" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22752c11" data-id="22752c11" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1e4dce71 elementor-widget elementor-widget-text-editor" data-id="1e4dce71" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:image {"id":41,"width":1617,"height":722,"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project1_inner_image1.jpg" alt="" class="wp-image-41" width="1617" height="722" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":40} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":50} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat cupidatat non proident, sunt in culpa qui officia mollit natoque consequat massa quis enim. Donec pede justo, fringilla semper nisi. Aene vulputate</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectet adipiscing&nbsp;elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea sint occaecat</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":30} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":44,"width":797,"height":722,"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project1_inner_image2.jpg" alt="" class="wp-image-44" width="797" height="722" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":45,"width":797,"height":722,"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project1_inner_image3.jpg" alt="" class="wp-image-45" width="797" height="722" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/exica-chair/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>

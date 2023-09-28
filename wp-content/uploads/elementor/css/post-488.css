@@ -1,0 +1,18 @@
+.elementor-488 .elementor-element.elementor-element-67acc892{padding:4% 4% 0% 4%;}.elementor-488 .elementor-element.elementor-element-250fe237{text-align:center;}.elementor-488 .elementor-element.elementor-element-250fe237 > .elementor-widget-container{padding:0% 18% 1% 18%;}.elementor-488 .elementor-element.elementor-element-1eeeaf00{text-align:center;}.elementor-488 .elementor-element.elementor-element-1eeeaf00 > .elementor-widget-container{padding:0% 23% 4% 23%;}.elementor-488 .elementor-element.elementor-element-8f62997 > .elementor-container{min-height:726px;}.elementor-488 .elementor-element.elementor-element-8f62997 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-488 .elementor-element.elementor-element-25aeeca6 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 15px 0px 0px;--e-column-margin-right:15px;--e-column-margin-left:0px;}.elementor-488 .elementor-element.elementor-element-25aeeca6 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-488 .elementor-element.elementor-element-3d5c81f2 > .elementor-element-populated{padding:0% 16% 0% 16%;}@media(max-width:1024px){.elementor-488 .elementor-element.elementor-element-250fe237 > .elementor-widget-container{padding:0% 0% 1% 0%;}.elementor-488 .elementor-element.elementor-element-1eeeaf00 > .elementor-widget-container{padding:0% 10% 8% 10%;}.elementor-488 .elementor-element.elementor-element-8f62997 > .elementor-container{min-height:285px;}.elementor-488 .elementor-element.elementor-element-3d5c81f2 > .elementor-element-populated{padding:0% 0% 0% 10%;}}@media(max-width:767px){.elementor-488 .elementor-element.elementor-element-67acc892{padding:12% 6% 24% 6%;}.elementor-488 .elementor-element.elementor-element-250fe237 > .elementor-widget-container{padding:0% 0% 2% 0%;}.elementor-488 .elementor-element.elementor-element-1eeeaf00 > .elementor-widget-container{padding:0% 0% 10% 0%;}.elementor-488 .elementor-element.elementor-element-25aeeca6{width:100%;}.elementor-488 .elementor-element.elementor-element-25aeeca6 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-488 .elementor-element.elementor-element-3d5c81f2 > .elementor-element-populated{padding:18% 0% 0% 0%;}}/* Start custom CSS for text-editor, class: .elementor-element-1eeeaf00 */.my-display {
+	font: 1.1rem;
+	color: #87B3A7;
+	font-weight: 900;
+}/* End custom CSS */
+/* Start custom CSS for global, class: .elementor-global-496 */textarea {
+  width: ;
+  height: 150px;
+	margin: 4px 0px 12px 0px;
+  box-sizing: border-box;
+  resize: none;
+}
+
+input[type=text] {
+  width: ;
+  margin: 4px 0px 12px 0px;
+  box-sizing: border-box;
+}/* End custom CSS */

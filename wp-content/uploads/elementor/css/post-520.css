@@ -1,0 +1,18 @@
+.elementor-520 .elementor-element.elementor-element-32c4f94{padding:4% 4% 0% 4%;}.elementor-520 .elementor-element.elementor-element-7003807f{text-align:center;}.elementor-520 .elementor-element.elementor-element-7003807f > .elementor-widget-container{padding:0% 18% 1% 18%;}.elementor-520 .elementor-element.elementor-element-755de7a7{text-align:center;}.elementor-520 .elementor-element.elementor-element-755de7a7 > .elementor-widget-container{padding:0% 23% 4% 23%;}.elementor-520 .elementor-element.elementor-element-50311b6e > .elementor-container{min-height:726px;}.elementor-520 .elementor-element.elementor-element-50311b6e > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-520 .elementor-element.elementor-element-2bbef700 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 15px 0px 0px;--e-column-margin-right:15px;--e-column-margin-left:0px;}.elementor-520 .elementor-element.elementor-element-2bbef700 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-520 .elementor-element.elementor-element-4d179c44 > .elementor-element-populated{padding:0% 16% 0% 16%;}@media(max-width:1024px){.elementor-520 .elementor-element.elementor-element-7003807f > .elementor-widget-container{padding:0% 0% 1% 0%;}.elementor-520 .elementor-element.elementor-element-755de7a7 > .elementor-widget-container{padding:0% 10% 8% 10%;}.elementor-520 .elementor-element.elementor-element-50311b6e > .elementor-container{min-height:285px;}.elementor-520 .elementor-element.elementor-element-4d179c44 > .elementor-element-populated{padding:0% 0% 0% 10%;}}@media(max-width:767px){.elementor-520 .elementor-element.elementor-element-32c4f94{padding:12% 6% 24% 6%;}.elementor-520 .elementor-element.elementor-element-7003807f > .elementor-widget-container{padding:0% 0% 2% 0%;}.elementor-520 .elementor-element.elementor-element-755de7a7 > .elementor-widget-container{padding:0% 0% 10% 0%;}.elementor-520 .elementor-element.elementor-element-2bbef700{width:100%;}.elementor-520 .elementor-element.elementor-element-2bbef700 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-520 .elementor-element.elementor-element-4d179c44 > .elementor-element-populated{padding:18% 0% 0% 0%;}}/* Start custom CSS for text-editor, class: .elementor-element-755de7a7 */.my-display {
+	font: 1.1rem;
+	color: #87B3A7;
+	font-weight: 900;
+}/* End custom CSS */
+/* Start custom CSS for global, class: .elementor-global-496 */textarea {
+  width: ;
+  height: 150px;
+	margin: 4px 0px 12px 0px;
+  box-sizing: border-box;
+  resize: none;
+}
+
+input[type=text] {
+  width: ;
+  margin: 4px 0px 12px 0px;
+  box-sizing: border-box;
+}/* End custom CSS */

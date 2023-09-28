@@ -1,0 +1,18 @@
+.elementor-25 .elementor-element.elementor-element-2e78e317{padding:4% 4% 0% 4%;}.elementor-25 .elementor-element.elementor-element-5c198f58{text-align:center;}.elementor-25 .elementor-element.elementor-element-5c198f58 > .elementor-widget-container{padding:0% 18% 1% 18%;}.elementor-25 .elementor-element.elementor-element-553d15d9{text-align:center;}.elementor-25 .elementor-element.elementor-element-553d15d9 > .elementor-widget-container{padding:0% 23% 4% 23%;}.elementor-25 .elementor-element.elementor-element-6c9a8c6a > .elementor-container{min-height:726px;}.elementor-25 .elementor-element.elementor-element-6c9a8c6a > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-25 .elementor-element.elementor-element-557afb88 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 15px 0px 0px;--e-column-margin-right:15px;--e-column-margin-left:0px;}.elementor-25 .elementor-element.elementor-element-557afb88 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-25 .elementor-element.elementor-element-520bf50 > .elementor-element-populated{padding:0% 16% 0% 16%;}@media(max-width:1024px){.elementor-25 .elementor-element.elementor-element-5c198f58 > .elementor-widget-container{padding:0% 0% 1% 0%;}.elementor-25 .elementor-element.elementor-element-553d15d9 > .elementor-widget-container{padding:0% 10% 8% 10%;}.elementor-25 .elementor-element.elementor-element-6c9a8c6a > .elementor-container{min-height:285px;}.elementor-25 .elementor-element.elementor-element-520bf50 > .elementor-element-populated{padding:0% 0% 0% 10%;}}@media(max-width:767px){.elementor-25 .elementor-element.elementor-element-2e78e317{padding:12% 6% 24% 6%;}.elementor-25 .elementor-element.elementor-element-5c198f58 > .elementor-widget-container{padding:0% 0% 2% 0%;}.elementor-25 .elementor-element.elementor-element-553d15d9 > .elementor-widget-container{padding:0% 0% 10% 0%;}.elementor-25 .elementor-element.elementor-element-557afb88{width:100%;}.elementor-25 .elementor-element.elementor-element-557afb88 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-25 .elementor-element.elementor-element-520bf50 > .elementor-element-populated{padding:18% 0% 0% 0%;}}/* Start custom CSS for text-editor, class: .elementor-element-553d15d9 */.my-display {
+	font: 1.1rem;
+	color: #87B3A7;
+	font-weight: 900;
+}/* End custom CSS */
+/* Start custom CSS for global, class: .elementor-global-496 */textarea {
+  width: ;
+  height: 150px;
+	margin: 4px 0px 12px 0px;
+  box-sizing: border-box;
+  resize: none;
+}
+
+input[type=text] {
+  width: ;
+  margin: 4px 0px 12px 0px;
+  box-sizing: border-box;
+}/* End custom CSS */
