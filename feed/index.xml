@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/08/favicon-portfolio.svg</url>
@@ -47,7 +47,7 @@
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.15.0 - 20-08-2023 */
 .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:image {"id":159,"width":1617,"height":722,"sizeSlug":"full"} -->
-<figure class="wp-block-image size-full is-resized"><img decoding="async" fetchpriority="high" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Niva-Kettle_inner_image_2.jpg" alt="" class="wp-image-159" width="1617" height="722" /></figure>
+<figure class="wp-block-image size-full is-resized"><img fetchpriority="high" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Niva-Kettle_inner_image_2.jpg" alt="" class="wp-image-159" width="1617" height="722" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":40} -->
@@ -128,7 +128,7 @@
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Stellar-Clock_inner_image1.jpg" alt="" class="wp-image-167" width="1617" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Stellar-Clock_inner_image1.jpg" alt="" class="wp-image-167" width="1617" height="722"/></figure>
 
 
 
@@ -136,7 +136,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-11 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-3 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
 
 
@@ -160,9 +160,9 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-14 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-4 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Stellar-Clock_inner_image3.jpg" alt="" class="wp-image-169" width="797" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Stellar-Clock_inner_image3.jpg" alt="" class="wp-image-169" width="797" height="722"/></figure>
 
 
 
@@ -172,7 +172,7 @@
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Stellar-Clock_inner_image2.jpg" alt="" class="wp-image-168" width="797" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Stellar-Clock_inner_image2.jpg" alt="" class="wp-image-168" width="797" height="722"/></figure>
 
 
 
@@ -202,7 +202,7 @@
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Rubiks_Cube_inner_image1.jpg" alt="" class="wp-image-174" width="1617" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Rubiks_Cube_inner_image1.jpg" alt="" class="wp-image-174" width="1617" height="722"/></figure>
 
 
 
@@ -210,7 +210,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-18 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-5 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
 
 
@@ -234,9 +234,9 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-21 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-6 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Rubiks_Cube_inner_image3.jpg" alt="" class="wp-image-175" width="797" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Rubiks_Cube_inner_image3.jpg" alt="" class="wp-image-175" width="797" height="722"/></figure>
 
 
 
@@ -246,7 +246,7 @@
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Rubiks_Cube_inner_image4.jpg" alt="" class="wp-image-176" width="797" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Rubiks_Cube_inner_image4.jpg" alt="" class="wp-image-176" width="797" height="722"/></figure>
 
 
 
@@ -276,7 +276,7 @@
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_5.jpg" alt="" class="wp-image-181" width="1617" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_5.jpg" alt="" class="wp-image-181" width="1617" height="722"/></figure>
 
 
 
@@ -284,7 +284,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-25 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-7 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
 
 
@@ -308,9 +308,9 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-28 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-8 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_13.jpg" alt="" class="wp-image-182" width="797" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_13.jpg" alt="" class="wp-image-182" width="797" height="722"/></figure>
 
 
 
@@ -320,7 +320,7 @@
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_16.jpg" alt="" class="wp-image-183" width="797" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_16.jpg" alt="" class="wp-image-183" width="797" height="722"/></figure>
 
 
 
@@ -350,7 +350,7 @@
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_2.jpg" alt="" class="wp-image-189" width="1617" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_2.jpg" alt="" class="wp-image-189" width="1617" height="722"/></figure>
 
 
 
@@ -358,7 +358,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-32 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-9 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
 
 
@@ -382,9 +382,9 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-35 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-10 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_11.jpg" alt="" class="wp-image-190" width="797" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_11.jpg" alt="" class="wp-image-190" width="797" height="722"/></figure>
 
 
 
@@ -394,7 +394,7 @@
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_14.jpg" alt="" class="wp-image-191" width="797" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_14.jpg" alt="" class="wp-image-191" width="797" height="722"/></figure>
 
 
 
@@ -424,7 +424,7 @@
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Ludi-Board_images_1.jpg" alt="" class="wp-image-200" width="1617" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Ludi-Board_images_1.jpg" alt="" class="wp-image-200" width="1617" height="722"/></figure>
 
 
 
@@ -432,7 +432,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-39 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-11 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
 
 
@@ -456,9 +456,9 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-42 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-12 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Ludi-Board_images_3.jpg" alt="" class="wp-image-208" width="797" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Ludi-Board_images_3.jpg" alt="" class="wp-image-208" width="797" height="722"/></figure>
 
 
 
@@ -468,7 +468,7 @@
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Ludi-Board_images_2.jpg" alt="" class="wp-image-207" width="797" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Ludi-Board_images_2.jpg" alt="" class="wp-image-207" width="797" height="722"/></figure>
 
 
 
@@ -498,7 +498,7 @@
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_7.jpg" alt="" class="wp-image-211" width="1617" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_7.jpg" alt="" class="wp-image-211" width="1617" height="722"/></figure>
 
 
 
@@ -506,7 +506,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-46 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-13 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
 
 
@@ -530,9 +530,9 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-49 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-14 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_10.jpg" alt="" class="wp-image-212" width="797" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_10.jpg" alt="" class="wp-image-212" width="797" height="722"/></figure>
 
 
 
@@ -542,7 +542,7 @@
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_15.jpg" alt="" class="wp-image-213" width="797" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_15.jpg" alt="" class="wp-image-213" width="797" height="722"/></figure>
 
 
 
@@ -572,7 +572,7 @@
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_12.jpg" alt="" class="wp-image-218" width="1617" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_12.jpg" alt="" class="wp-image-218" width="1617" height="722"/></figure>
 
 
 
@@ -580,7 +580,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-53 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-15 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
 
 
@@ -604,9 +604,9 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-56 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-16 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_19.jpg" alt="" class="wp-image-219" width="797" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_19.jpg" alt="" class="wp-image-219" width="797" height="722"/></figure>
 
 
 
@@ -616,7 +616,7 @@
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_20.jpg" alt="" class="wp-image-220" width="797" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_20.jpg" alt="" class="wp-image-220" width="797" height="722"/></figure>
 
 
 
@@ -646,7 +646,7 @@
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_8.jpg" alt="" class="wp-image-224" width="1617" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_8.jpg" alt="" class="wp-image-224" width="1617" height="722"/></figure>
 
 
 
@@ -654,7 +654,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-60 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-17 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
 
 
@@ -678,9 +678,9 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-63 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-18 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_17.jpg" alt="" class="wp-image-225" width="797" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_17.jpg" alt="" class="wp-image-225" width="797" height="722"/></figure>
 
 
 
@@ -690,7 +690,7 @@
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_18-1.jpg" alt="" class="wp-image-227" width="797" height="722"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project_images_18-1.jpg" alt="" class="wp-image-227" width="797" height="722"/></figure>
 
 
 
@@ -727,7 +727,7 @@
 								<div class="elementor-element elementor-element-1e4dce71 elementor-widget elementor-widget-text-editor" data-id="1e4dce71" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 							<!-- wp:image {"id":41,"width":1617,"height":722,"sizeSlug":"full"} -->
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project1_inner_image1.jpg" alt="" class="wp-image-41" width="1617" height="722" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project1_inner_image1.jpg" alt="" class="wp-image-41" width="1617" height="722" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":40} -->
@@ -761,13 +761,13 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":44,"width":797,"height":722,"sizeSlug":"full"} -->
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project1_inner_image2.jpg" alt="" class="wp-image-44" width="797" height="722" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project1_inner_image2.jpg" alt="" class="wp-image-44" width="797" height="722" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":45,"width":797,"height":722,"sizeSlug":"full"} -->
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project1_inner_image3.jpg" alt="" class="wp-image-45" width="797" height="722" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project1_inner_image3.jpg" alt="" class="wp-image-45" width="797" height="722" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
