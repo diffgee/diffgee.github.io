@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/08/favicon-portfolio.svg</url>
@@ -39,13 +39,13 @@
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="45" class="elementor elementor-45" data-elementor-post-type="post">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-7715308a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7715308a" data-element_type="section">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-7715308a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7715308a" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-57852448" data-id="57852448" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-4d374c64 elementor-widget elementor-widget-text-editor" data-id="4d374c64" data-element_type="widget" data-widget_type="text-editor.default">
+						<div class="elementor-element elementor-element-4d374c64 elementor-widget elementor-widget-text-editor" data-id="4d374c64" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.15.0 - 20-08-2023 */
+			<style>/*! elementor - v3.19.0 - 28-02-2024 */
 .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:image {"id":159,"width":1617,"height":722,"sizeSlug":"full"} -->
 <figure class="wp-block-image size-full is-resized"><img fetchpriority="high" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/Niva-Kettle_inner_image_2.jpg" alt="" class="wp-image-159" width="1617" height="722" /></figure>
 <!-- /wp:image -->
@@ -106,9 +106,9 @@
 				</div>
 					</div>
 		</div>
-							</div>
+					</div>
 		</section>
-							</div>
+				</div>
 		]]></content:encoded>
 					
 					<wfw:commentRss>/niva-kettle/feed/</wfw:commentRss>
@@ -720,11 +720,11 @@
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectet adipiscing elit,sed do eiusm por incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisproident, sunt in culpa qui officia mollit natoque consequat ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="36" class="elementor elementor-36" data-elementor-post-type="post">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-492d3067 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="492d3067" data-element_type="section">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-492d3067 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="492d3067" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22752c11" data-id="22752c11" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1e4dce71 elementor-widget elementor-widget-text-editor" data-id="1e4dce71" data-element_type="widget" data-widget_type="text-editor.default">
+						<div class="elementor-element elementor-element-1e4dce71 elementor-widget elementor-widget-text-editor" data-id="1e4dce71" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 							<!-- wp:image {"id":41,"width":1617,"height":722,"sizeSlug":"full"} -->
 <figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://library.elementor.com/industrial-design-portfolio/wp-content/uploads/sites/121/2020/11/project1_inner_image1.jpg" alt="" class="wp-image-41" width="1617" height="722" /></figure>
@@ -782,9 +782,9 @@
 				</div>
 					</div>
 		</div>
-							</div>
+					</div>
 		</section>
-							</div>
+				</div>
 		]]></content:encoded>
 					
 					<wfw:commentRss>/exica-chair/feed/</wfw:commentRss>
